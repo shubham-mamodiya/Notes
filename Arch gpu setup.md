@@ -1,0 +1,1 @@
+sudo pacman -S mesa lib32-mesa vulkan-intel lib32-vulkan-intel egl-wayland libva-nvidia-driver qt5-wayland qt6-wayland nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings nvidia-prime linux-headers linux-zen-headers base-devel opencl-nvidia cuda lib32-opencl-nvidia ocl-icd opencl-headers clinfo cudnn
