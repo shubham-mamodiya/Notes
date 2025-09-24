@@ -1,0 +1,1 @@
+sudo modprobe -r psmouse && sudo modprobe psmouse synaptics_intertouch=1
