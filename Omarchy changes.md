@@ -9,3 +9,5 @@ Terminal font size
 Nvidia environmental variables at hyprland.conf 
 Input.conf
 
+
+Autocpufreq 0
