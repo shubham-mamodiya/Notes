@@ -10,4 +10,13 @@ Nvidia environmental variables at hyprland.conf
 Input.conf
 
 
-Autocpufreq 0
+Autocpufreq 
+yazi
+telegram-desktop
+
+
+
+
+
+
+Web-app login 
